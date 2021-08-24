@@ -1,0 +1,5 @@
+This project needs XAMPP to run the local server.
+
+After the XAMPP is setup, you can import the .sql file for the database in "myphpadmin".
+
+Finally, you can open the Online Hotel Booking using the home.php page in the browser.
